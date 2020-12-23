@@ -1,15 +1,15 @@
 ---
 links:
   - title: Portraits from inspired by the 1950
-    url: "/portraits"
+    url: "/paintings"
     desc: Het is makkelijk om grootse dingen te doen als je gelooft in wat je doet. Daarom help ik mensen zoals jij. Elke dag weer. 
     img: "/static/img/Painting1.jpeg"
   - title: PartyTime!
-    url: "/partytime"
+    url: "/paintings"
     desc: In mijn schilderijen probeer ik blablabla en daarnaast is het belangrijk om erbij te zeggen dan bla bla bla
     img: "/static/img/Painting2.jpeg"
   - title: Jazz Legends
-    url: "/jazz"
+    url: "/paintings"
     desc: In mijn schilderijen probeer ik blablabla en daarnaast is het belangrijk om erbij te zeggen dan bla bla bla
     img: "/static/img/Painting3.jpeg"
   - title: See all painting and drawing

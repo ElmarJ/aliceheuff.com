@@ -5,8 +5,8 @@ items:
   - text: Wat maak ik
     url: "/paintings"
   - text: Jazz Legends
-    url: "/jazz"
+    url: "/paintings"
   - text: Party
-    url: "/party"
+    url: "/paintings"
   - text: Portraits
-    url: "/portraits"
+    url: "/paintings"
