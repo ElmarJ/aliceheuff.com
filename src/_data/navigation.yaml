@@ -1,7 +1,7 @@
 ---
 items:
   - text: Home
-    url: "#"
+    url: "/"
   - text: Wat maak ik
     url: "/paintings"
   - text: Jazz Legends
