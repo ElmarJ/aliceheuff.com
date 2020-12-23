@@ -1,10 +1,12 @@
 ---
 items:
-  - text: Menu One
+  - text: Home
     url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: Wat maak ik
+    url: "/paintings"
+  - text: Jazz Legends
+    url: "/jazz"
+  - text: Party
+    url: "/party"
+  - text: Portraits
+    url: "/portraits"

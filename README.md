@@ -1,19 +1,16 @@
-# Neat Starter
+# Website aliceheuff.com
 
-Starter Template for **N**etlify CMS, **E**leventy, **A**lphine JS & **T**ailwind CSS
+Website of painter Alice Heuff: [https://aliceheuff.com](https://aliceheuff.com)
 
-## Live Demo
+## Technologies
 
-[https://neat-starter.netlify.app/](https://neat-starter.netlify.app/)
-
-### Technologies used:
+Based on [NEAT starter](https://github.com/surjithctly/neat-starter) by [Surjith S M](https://github.com/surjithctly). Using:
 
 - [Netlify CMS](https://www.netlifycms.org/)
 - [Eleventy](https://www.11ty.dev/)
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-| ![image](https://user-images.githubusercontent.com/1884712/93762662-a62e4700-fc2d-11ea-9b2c-fda9f503402b.png) |
 | ------------------------------------------------------------------------------------------------------------- |
 
 
@@ -26,7 +23,7 @@ Detailed instructions are available in my blog. [Check it out](https://blog.surj
 ### 1\. Clone this Repository
 
 ```
-git clone https://github.com/surjithctly/neat-starter.git
+git clone https://github.com/elmarj/aliceheuff.com.git
 ```
 
 ### 2\. Navigate to the directory
@@ -54,7 +51,3 @@ npm run build
 ```
 npm run start
 ```
-
-## Author
-
-Surjith S M ( [@surjithctly](https://surjithctly.in/) )
