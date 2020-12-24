@@ -6,14 +6,14 @@ layout: gallery
     {% set postslist = collections.post %}
 
     {% for post in postslist | reverse %}
-    <div class="m-auto px-4 py-8 max-w-xl  transform transition duration-500 hover:scale-110">
+    <div class="m-auto px-4 py-8 max-w-xl transform transition duration-500 hover:scale-110  rounded-md">
         <a href="{{post.url | url}}">
-            <div class="bg-white shadow-2xl">
+            <div class="bg-white shadow-2xl rounded-sm">
                 <div>
                     <img
-                        src="/static{{post.data.image}}">
+                        src="/static{{post.data.image}}" class="rounded-sm">
                 </div>
-                <div class="px-4 py-2 mt-2 bg-white">
+                <div class="px-4 py-2 mt-2 bg-white rounded-sm">
                     <h2 class="font-bold text-2xl text-gray-800">{{post.data.title}}</h2>
                     <p class="sm:text-sm text-xs text-gray-700 px-2 mr-1 my-3">
                         {{post.data.description}}

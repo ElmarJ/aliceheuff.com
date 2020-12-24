@@ -5,12 +5,12 @@
     {% for item in quicklinks.links %}
     <div class="m-auto px-4 py-8 max-w-xl transform transition duration-500 hover:scale-110">
         <a href="{{item.url}}">
-            <div class="bg-white shadow-2xl">
+            <div class="bg-white shadow-2xl rounded-sm">
                 <div>
                     <img
-                        src="{{item.img}}">
+                        src="{{item.img}}" class=" rounded-sm">
                 </div>
-                <div class="px-4 py-2 mt-2 bg-white">
+                <div class="px-4 py-2 mt-2 bg-white  rounded-sm">
                     <h2 class="font-bold text-2xl text-gray-800">{{item.title}}</h2>
                     <p class="sm:text-sm text-xs text-gray-700 px-2 mr-1 my-3">
                         {{item.desc}}
