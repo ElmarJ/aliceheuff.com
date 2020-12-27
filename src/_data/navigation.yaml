@@ -2,11 +2,11 @@
 items:
   - text: Home
     url: "/"
-  - text: Wat maak ik
-    url: "/paintings"
+  - text: Fifties
+    url: "/fifties"
   - text: Jazz Legends
-    url: "/paintings"
+    url: "/jazz"
   - text: Party
-    url: "/paintings"
+    url: "/party"
   - text: Portraits
-    url: "/paintings"
+    url: "/portraits"
