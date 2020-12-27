@@ -8,8 +8,8 @@ path: home
   <h1 class="m-3">
       <strong>{{title}}</strong>
   </h1>
-
-  {{ content | safe }}
-
+  <main class="m-3">
+    {{ content | safe }}
+  </main>
 </div>
 {% include "./partials/content.html" %}
