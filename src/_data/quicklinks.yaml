@@ -1,9 +1,13 @@
 ---
+carousel:
+  image1: "/static/img/Painting6.jpeg"
+  image2: "/static/img/Painting7.jpeg"
+  image3: "/static/img/Painting8.jpeg"
 links:
   - title: Portraits from inspired by the 1950
     url: "/portraits"
     desc: Het is makkelijk om grootse dingen te doen als je gelooft in wat je doet. Daarom help ik mensen zoals jij. Elke dag weer. 
-    img: "/static/img/Painting1.jpeg"
+    img: "/static/img/Painting5.jpeg"
   - title: PartyTime!
     url: "/party"
     desc: In mijn schilderijen probeer ik blablabla en daarnaast is het belangrijk om erbij te zeggen dan bla bla bla

@@ -44,10 +44,17 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
-      - label: "Voorpagina-links"
-        name: "links"
+      - label: "Voorpagina"
+        name: "frontpage"
         file: "src/_data/quicklinks.yaml"
         fields:
+          - label: Carousel-plaatjes
+            name: carousel
+            widget: object
+            fields:
+              - { label: Plaatje 1, name: image1, widget: image}
+              - { label: Plaatje 2, name: image2, widget: image}
+              - { label: Plaatje 3, name: image3, widget: image}
           - label: Linkjes
             name: links
             widget: list
