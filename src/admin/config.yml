@@ -11,7 +11,7 @@ public_folder: "src/static/img"
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: "Paintings"
+  - label: "Schilderijen"
     name: "painting"
     folder: "src/paintings"
     create: true
@@ -27,7 +27,7 @@ collections:
         multiple: true
         create: true
         options: ["jazz", "fifties", "portraits", "partytime"]
-  - label: "Settings"
+  - label: "Instellingen"
     name: "settings"
     editor:
       preview: false
