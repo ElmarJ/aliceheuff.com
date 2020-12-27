@@ -20,7 +20,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image", media_library: { config: { multiple: true }}}
+      - { label: "Image", name: "image", widget: "image"}
       - widget: select
         label: "Tags"
         name: "tags"
