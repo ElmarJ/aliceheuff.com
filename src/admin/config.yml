@@ -69,7 +69,7 @@ collections:
         file: "src/index.md"
         fields:
           - { label: Title, name: title, widget: string }
-          - { label: Text, name: content, widget: markdown }
+          - { label: Text, name: body, widget: markdown }
       - label: "Algemene Instellingen"
         name: "settings"
         file: "src/_data/settings.yaml"
