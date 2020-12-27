@@ -1,19 +1,19 @@
 backend:
   # Use netlify identity as backend
-  # name: git-gateway
+  name: git-gateway
   # branch: master
   ### enable below lines for github integration ###
-  name: github
-  repo: elmarj/aliceheuff.com
-media_folder: "src/static/img"
-public_folder: "/static/img"
+  # name: github
+  # repo: elmarj/aliceheuff.com
+  media_folder: "src/static/img"
+  public_folder: "src/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: "Blog"
-    name: "blog"
+  - label: "Paintings"
+    name: "painting"
     folder: "src/paintings"
     create: true
     editor:
@@ -21,15 +21,13 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Featured Image", name: "thumbnail", widget: "image", media_library: { config: { multiple: true }}}
       - widget: select
-        label: "tags"
+        label: "Tags"
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["jazz", "fifties", "portraits", "partytime"]
   - label: "Settings"
     name: "settings"
     editor:
