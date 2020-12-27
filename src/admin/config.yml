@@ -27,25 +27,11 @@ collections:
         multiple: true
         create: true
         options: ["jazz", "fifties", "portraits", "partytime"]
-  - label: "Instellingen"
-    name: "settings"
-    editor:
-      preview: false
+  - label: "Voorpagina"
+    name: "frontpage"
     files:
-      - label: "Site-Navigatie"
-        name: "items"
-        file: "src/_data/navigation.yaml"
-        fields:
-          - label: Menu-items
-            name: items
-            widget: list
-            allow_add: false
-            collapsed: false
-            fields:
-              - { label: Title, name: text, widget: string }
-              - { label: URL, name: url, widget: string }
       - label: "Voorpagina-instellingen"
-        name: "frontpage"
+        name: "frontpage-settings"
         file: "src/_data/quicklinks.yaml"
         fields:
           - label: Carousel-plaatjes
@@ -64,12 +50,29 @@ collections:
               - { label: URL, name: url, widget: string }
               - { label: Description, name: desc, widget: string }
               - { label: Plaatje, name: img, widget: image}
-      - label: "Voorpagina-instellingen"
+      - label: "Voorpagina-inhoud"
         name: "frontpage-content"
         file: "src/index.md"
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Text, name: body, widget: markdown }
+  - label: "Instellingen"
+    name: "settings"
+    editor:
+      preview: false
+    files:
+      - label: "Site-Navigatie"
+        name: "items"
+        file: "src/_data/navigation.yaml"
+        fields:
+          - label: Menu-items
+            name: items
+            widget: list
+            allow_add: false
+            collapsed: false
+            fields:
+              - { label: Title, name: text, widget: string }
+              - { label: URL, name: url, widget: string }
       - label: "Algemene Instellingen"
         name: "settings"
         file: "src/_data/settings.yaml"
