@@ -26,7 +26,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["jazz", "fifties", "portraits", "partytime"]
+        options: ["jazz", "fifties", "portrait", "partytime"]
   - label: "Voorpagina"
     name: "frontpage"
     files:
