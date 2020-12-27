@@ -18,9 +18,9 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Image", name: "image", widget: "image"}
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Beschrijving", name: "description", widget: "string" }
+      - { label: "Schilderij", name: "image", widget: "image"}
       - widget: select
         label: "Tags"
         name: "tags"
@@ -32,11 +32,11 @@ collections:
     editor:
       preview: false
     files:
-      - label: "Navigation"
+      - label: "Site-Navigatie"
         name: "items"
         file: "src/_data/navigation.yaml"
         fields:
-          - label: Nav Items
+          - label: Menu-items
             name: items
             widget: list
             allow_add: false
@@ -44,11 +44,11 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
-      - label: "Quick Links"
+      - label: "Voorpagina-links"
         name: "links"
         file: "src/_data/quicklinks.yaml"
         fields:
-          - label: Nav Items
+          - label: Linkjes
             name: links
             widget: list
             collapsed: false
@@ -56,6 +56,8 @@ collections:
               - { label: Title, name: title, widget: string }
               - { label: URL, name: url, widget: string }
               - { label: Description, name: desc, widget: string }
+              - { label: Plaatje, name: image, widget: image}
+
       - label: "Meta Settings"
         name: "settings"
         file: "src/_data/settings.yaml"
