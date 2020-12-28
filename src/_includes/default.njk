@@ -22,11 +22,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
   </head>
   <body class="bg-white text-gray-600 work-sans leading-normal text-base tracking-normal">
-    {% include "./partials/navbar.html" %}
+    {% include "./partials/navbar.njk" %}
 
     {{ content | safe }}
 
-    {% include "./partials/footer.html" %}
+    {% include "./partials/footer.njk" %}
 
     <script src="/static/js/alpine.js"></script>
 
