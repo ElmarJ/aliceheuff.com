@@ -5,7 +5,7 @@ backend:
   repo: elmarj/aliceheuff.com
 
 media_folder: "src/static/img"
-public_folder: "src/static/img"
+public_folder: "/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
