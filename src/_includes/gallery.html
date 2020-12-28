@@ -1,12 +1,37 @@
 ---
 title: Paintings
 layout: default
+spotlight: true
+selector: painting
 ---
 
 <div class="container max-w-3xl mt-6 px-6">
 
     <h1 class="font-bold text-5xl">{{title}}</h1>
 
-    {{ content | safe }}
+    <p>{{ content | safe }}</p>
+
+    <section class="mt-15 w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0">
+        {% set paintingslist = collections[selector] %}
+    
+        {% for painting in paintingslist | reverse %}
+        <div class="m-auto px-4 py-8 max-w-xl transform transition duration-500 hover:scale-110  rounded-md">
+            <a href="/static{{painting.data.image | url}}" data-description="{{painting.data.description}}" class="spotlight">
+                <div class="bg-white shadow-2xl rounded-sm">
+                    <div>
+                        <img
+                            src="/static{{painting.data.image}}?nf_resize=smartcrop&w=400&h=400" alt="{{painting.data.title}}" class="rounded-sm">
+                    </div>
+                    <div class="px-4 py-2 mt-2 bg-white rounded-sm">
+                        <h2 class="font-bold text-2xl text-gray-800">{{painting.data.title}}</h2>
+                        <p class="sm:text-sm text-xs text-gray-700 px-2 mr-1 my-3">
+                            {{painting.data.description}}
+                        </p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        {% endfor %}
+    </section>
 
 </div>
