@@ -16,7 +16,7 @@ selector: painting
     
         {% for painting in paintingslist | reverse %}
         <div class="m-auto px-4 py-3 max-w-xl transform transition duration-500 hover:scale-110  rounded-md">
-            <a href="/static{{painting.data.image | url}}" data-description="{{painting.data.description}}" class="spotlight">
+            <a href="/static{{painting.data.image | url}}" data-description="{{painting.data.description}}" data-theme="white" data-title="false" data-autohide="1000" class="spotlight">
                 <div class="bg-white shadow-2xl rounded-sm">
                     <div>
                         <img
