@@ -1,8 +1,8 @@
 <div class="w-full grid grid-cols-1 lg:grid-cols-2 gap-2 my-2 px-4 lg:mx-0 left-0 right-0">
 
-    {% if quicklinks.links %}
+    {% if quicklinks %}
 
-    {% for item in quicklinks.links %}
+    {% for item in quicklinks %}
     <div class="m-auto px-2 py-6 max-w-xl transform transition duration-500 hover:scale-105">
         <a href="{{item.url}}">
             <div class="bg-black shadow-2xl rounded-sm">

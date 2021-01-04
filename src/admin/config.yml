@@ -27,36 +27,25 @@ collections:
         multiple: true
         create: true
         options: ["jazz", "fifties", "portrait", "partytime"]
-  - label: "Voorpagina"
-    name: "frontpage"
+  - label: "Permanente Pagina's"
+    name: "pages"
     files:
-      - label: "Voorpagina-instellingen"
-        name: "frontpage-settings"
-        file: "src/_data/quicklinks.yaml"
-        fields:
-          - label: Carousel-plaatjes
-            name: carousel
-            widget: object
-            fields:
-              - { label: Plaatje 1, name: image1, widget: image}
-              - { label: Plaatje 2, name: image2, widget: image}
-              - { label: Plaatje 3, name: image3, widget: image}
-          - label: Linkjes
-            name: links
-            widget: list
-            collapsed: false
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
-              - { label: Plaatje, name: img, widget: image}
-      - label: "Voorpagina-inhoud"
-        name: "frontpage-content"
-        file: "src/index.md"
-        fields:
-          - { label: Title, name: title, widget: string }
-          - { label: Achtergrond-plaatje, name: background, widget: image}
-          - { label: Text, name: body, widget: markdown }
+    - label: "Home"
+      name: "frontpage-content"
+      file: "src/index.md"
+      fields:
+        - { label: Title, name: title, widget: string }
+        - { label: Achtergrond-plaatje, name: background, widget: image}
+        - { label: Text, name: body, widget: markdown }
+        - label: Quicklinks
+          name: quicklinks
+          widget: list
+          collapsed: false
+          fields:
+            -  { label: Title, name: title, widget: string }
+            -  { label: URL, name: url, widget: string }
+            -  { label: Description, name: desc, widget: string }
+            -  { label: Plaatje, name: img, widget: image }
   - label: "Instellingen"
     name: "settings"
     editor:
