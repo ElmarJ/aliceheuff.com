@@ -29,6 +29,12 @@
     {% include "./partials/footer.njk" %}
 
     <script src="/static/js/alpine.js"></script>
+    {% if rellax == true %}
+    <script src="/static/js/rellax.min.js"></script>
+    <script>
+      var rellax = new Rellax('.rellax');
+    </script>
+    {% endif %}
 
     {% if path == "home" %}
       <!-- Netlify Identity Widget -->
