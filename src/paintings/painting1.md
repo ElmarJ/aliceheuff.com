@@ -1,9 +1,9 @@
 ---
-title: Portret
-description: Dit is een heel mooi portret. Echt iets voor jou
+title: Portrait of Bernadette Lafont 1959 Paris
+description: Oilpainting portrait 40 x 30 (SOLD)
 image: /img/painting1.jpeg
 tag:
   - jazz
 tags:
-  - jazz
+  - fifties
 ---

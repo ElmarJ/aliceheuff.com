@@ -1,8 +1,8 @@
 ---
-title: Nog een schilderij
-description: "asdf asdf asdf asdfwef asdg adfasdasef "
+title: James Brown after concert
+description: oilpainting 50 x 50
 image: /img/Painting10.jpeg
 feature_image: /img/Painting10.jpeg
 tags:
- - fifties
+  - jazz
 ---
