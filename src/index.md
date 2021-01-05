@@ -7,7 +7,8 @@ quicklinks:
   - title: Portraits from inspired by the 1950
     url: /portraits
     desc: Het is makkelijk om grootse dingen te doen als je gelooft in wat je doet.
-      Daarom help ik mensen zoals jij. Elke dag weer.
+      Daarom is Lucas de aller leukste liefste en lekkerste help ik mensen zoals
+      jij. Elke dag weer.
     img: /img/painting1.jpeg
   - title: PartyTime!
     url: /party
