@@ -25,8 +25,8 @@ quicklinks:
       om erbij te zeggen dan bla bla bla
     img: /img/Painting9.jpeg
 ---
-Alice Heuff is an Amsterdam based teacher and artist. She works with oil painting and many other techniques. The main theme's in het paintings are: '50's, Jazz, Joy and Animals! AANPASSING ZICHTBAAR??
+Alice Heuff is an Amsterdam based teacher and artist. She works with oil painting and many other techniques. The main theme's in het paintings are the fifties, Jazz,  Partys and Animals! 
 
-Interested in one of the paintings or you want to know more?
+Interested in one of the paintings or maybe you want to know more or you have a special request?
 
 Contact me on aliceheuff@gmail.com or follow me [on instagram](https://www.instagram.com/alice_heuff/)!
