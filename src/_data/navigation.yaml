@@ -1,12 +1,11 @@
----
 items:
   - text: Home
-    url: "/"
-  - text: Fifties
-    url: "/fifties"
-  - text: Jazz Legends
-    url: "/jazz"
-  - text: Party
-    url: "/party"
+    url: /
   - text: Portraits
-    url: "/portraits"
+    url: /fifties
+  - text: Jazz Legends
+    url: /jazz
+  - text: Party
+    url: /party
+  - text: All Painings
+    url: /paintings
