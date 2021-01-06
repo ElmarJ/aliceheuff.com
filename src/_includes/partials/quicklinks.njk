@@ -3,14 +3,14 @@
     {% if quicklinks %}
 
     {% for item in quicklinks %}
-    <div class="m-auto px-2 py-6 max-w-xl transform transition duration-500 hover:scale-105">
+    <div class="m-auto px-2 py-6 max-w-xl transform transition duration-500 hover:scale-105 h-full">
         <a href="{{item.url}}">
-            <div class="bg-black shadow-2xl rounded-sm">
+            <div class="bg-black shadow-2xl rounded-sm h-full">
                 <div class="">
                     <img
                         src="/static{{item.img}}?nf_resize=smartcrop&w=400&h=400" class="h-60 w-full object-cover rounded-sm">
                 </div>
-                <div class="px-4 py-2 mt-2 bg-black  rounded-sm">
+                <div class="px-4 py-2 mt-2 bg-black rounded-sm">
                     <h2 class="font-bold text-2xl text-white">{{item.title}}</h2>
                     <p class="sm:text-sm text-xs text-white px-2 mr-1 my-3">
                         {{item.desc}}

@@ -13,8 +13,6 @@ h1 {
   font-weight: 600;
 }
 
-
-
 /* Syntax Highlighting*/
 
 body :not(pre) > code[class*="language-"],
