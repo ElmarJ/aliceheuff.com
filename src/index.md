@@ -29,4 +29,4 @@ Alice Heuff is an Amsterdam based teacher and artist. She works with oil paintin
 
 Interested in one of the paintings or maybe you want to know more or you have a special request?
 
-Contact me on aliceheuff@gmail.com or follow me [on instagram](https://www.instagram.com/alice_heuff/)!
+Contact me on [aliceheuff@gmail.com](aliceheuff@gmail.com) or follow me [on instagram](https://www.instagram.com/alice_heuff/)!
