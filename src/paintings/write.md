@@ -1,6 +1,6 @@
 ---
 title: Write
-description: Write Jazz legend. Oilpainting 20x20
+description: Frank Write Jazz legend. Oilpainting 20cm x 20cm
 image: /img/frans-write.jpg
 tags:
   - jazz
