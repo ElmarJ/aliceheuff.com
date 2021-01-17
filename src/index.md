@@ -8,7 +8,7 @@ quicklinks:
     url: /portraits
     desc: "In my portaits I like to use a lot of bright colors and oilpaint is
       making the colors really popout. I'm inspired by photo's from the
-      1950-1960 from photographers like Ed van de Elkse and Vivian Sassen. "
+      1950-1960 from photographers like Ed van de Elkse and Vivian Mayer. "
     img: /img/painting1.jpeg
   - title: PartyTime!
     url: /party
