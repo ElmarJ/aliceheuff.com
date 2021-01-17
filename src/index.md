@@ -7,14 +7,14 @@ quicklinks:
   - title: Portraits from inspired by the 1950
     url: /portraits
     desc: "In my portaits I like to use a lot of bright colors and oilpaint is
-      making the colors popout. I'm inspired by photo's from the 1950-1960 from
-      photographers like Ed van de Elkse and Vivian Sassen. "
+      making the colors really popout. I'm inspired by photo's from the
+      1950-1960 from photographers like Ed van de Elkse and Vivian Sassen. "
     img: /img/painting1.jpeg
   - title: PartyTime!
     url: /party
-    desc: I started paiting in the lockdown and wanted to paint happy and funny
+    desc: I started painting in the lockdown and I wanted to paint happy and funny
       gatherings. I got inspired by pictures from the 1950-1960 from my personal
-      collection and famoes photographer.
+      collection and famoes photographers.
     img: /img/img_3923.jpg
   - title: Jazz Legends
     url: /jazz
