@@ -6,26 +6,29 @@ background: /img/img_3948.jpg
 quicklinks:
   - title: Portraits from inspired by the 1950
     url: /portraits
-    desc: Het is makkelijk om grootse dingen te doen als je gelooft in wat je doet.
-      Daarom  help ik mensen zoals jij. Elke dag weer.
+    desc: "In my portaits I like to use a lot of bright colors and oilpaint is
+      making the colors popout. I'm inspired by photo's from the 1950-1960 from
+      photographers like Ed van de Elkse and Vivian Sassen. "
     img: /img/painting1.jpeg
   - title: PartyTime!
     url: /party
-    desc: In mijn schilderijen probeer ik blablabla en daarnaast is het belangrijk
-      om erbij te zeggen dan bla bla bla
+    desc: I started paiting in the lockdown and wanted to paint happy and funny
+      gatherings. I got inspired by pictures from the 1950-1960 from my personal
+      collection and famoes photographer.
     img: /img/img_3923.jpg
   - title: Jazz Legends
     url: /jazz
-    desc: In mijn schilderijen probeer ik blablabla en daarnaast is het belangrijk
-      om erbij te zeggen dan bla bla bla
+    desc: Jazz has a big influence on my painting. My goals is to paint the most
+      important Jazz artists. The portraits are all 20cm x 20cm they are all
+      painted in a highly contrast way. Together they make a nice set.
     img: /img/Painting12.jpeg
   - title: See all painting and drawing
     url: /paintings
-    desc: In mijn schilderijen probeer ik blablabla en daarnaast is het belangrijk
-      om erbij te zeggen dan bla bla bla
+    desc: In this overview you can find all of my paintings. Next to my oilpaintings
+      there are also screenprints and charcoal drawings.
     img: /img/Painting9.jpeg
 ---
-Alice Heuff is an Amsterdam based teacher and artist. She works with oil painting and many other techniques. The main theme's in het paintings are the fifties, Jazz,  Partys and Animals! 
+Alice Heuff is an Amsterdam based teacher and artist. She works with oilpaint and many other techniques. The main theme's in het paintings are the fifties/sixties, Jazz,  Partys and many other themes! 
 
 Interested in one of the paintings or maybe you want to know more or you have a special request?
 
