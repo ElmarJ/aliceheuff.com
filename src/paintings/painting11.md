@@ -1,6 +1,6 @@
 ---
 title: Jazz in club Havana
-description: Jazz in club Havana 40 x 50
+description: Jazz in Cotton club 40cm x 50cm
 image: /img/Painting11.jpeg
 feature_image: /img/Painting11.jpeg
 tags:
