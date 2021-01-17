@@ -1,6 +1,6 @@
 ---
 title: Eric Dolpy
-description: Jazz Legend Eric Dolpy 20 X 20
+description: Jazz Legend Eric Dolpy 20cm X 20cm
 image: /img/img_e3166.jpg
 tags:
   - jazz
