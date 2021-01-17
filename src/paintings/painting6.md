@@ -1,6 +1,6 @@
 ---
 title: Ornette
-description: Ornette Coleman 20 x 20
+description: Ornette Coleman, oilpainting 20cm x 20cm
 image: /img/Painting6.jpeg
 feature_image: /img/Painting6.jpeg
 tags:
