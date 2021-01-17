@@ -1,6 +1,6 @@
 ---
 title: Miles
-description: Miles Davis. Oilpainting 20 x 20
+description: Jazz legends Miles Davis. Oilpainting 20cm x 20cm
 image: /img/ufwx6195.jpg
 tags:
   - jazz
