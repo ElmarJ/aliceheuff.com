@@ -18,9 +18,11 @@ quicklinks:
     img: /img/img_3923.jpg
   - title: Jazz Legends
     url: /jazz
-    desc: Jazz has a big influence on my painting. My goals is to paint the most
-      important Jazz artists. The portraits are all 20cm x 20cm they are all
-      painted in a highly contrast way. Together they make a nice set.
+    desc: "I started painting covers from Jazz records from dad and got really
+      inspired by painting them. This was the start of a whole series. My goal
+      is to paint as many Jazz artists as possible. Togeter the make a nice
+      assemble. The portraits are all 20cm x 20cm they are all painted in a
+      highly contrast way. "
     img: /img/Painting12.jpeg
   - title: See all painting and drawing
     url: /paintings
