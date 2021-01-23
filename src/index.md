@@ -4,11 +4,10 @@ title: Alice Heuff
 path: home
 background: /img/img_3948.jpg
 quicklinks:
-  - title: Portraits from inspired by the 1950
+  - title: Portraits from inspired by the fifhties and sixies
     url: /portraits
-    desc: "In my paintings I like to use a lot of bright colors and oilpaint is
-      making the colors really popout. I'm inspired by pictures from the
-      1950-1960 from many photographers like Ed van de Elkse and Vivian Mayer. "
+    desc: I'm inspired by pictures from the 1950-1960 from many photographers like
+      Ed van de Elkse and Vivian Mayer.
     img: /img/painting1.jpeg
   - title: PartyTime!
     url: /party
@@ -18,20 +17,19 @@ quicklinks:
     img: /img/img_3923.jpg
   - title: Jazz Legends
     url: /jazz
-    desc: "I started painting covers from Jazz records from dad and got really
-      inspired by painting them. This was the start of a whole series. My goal
-      is to paint all Jazz legends. Togeter the make a nice assemble. The
-      portraits are all 20cm x 20cm they are all painted in a highly contrast
-      way. "
+    desc: "I started painting covers from Jazz records from my dad and got really
+      inspired by painting them. This was the start of a whole series. The
+      portraits are mostly 20cm x 20cm and they are all painted in a highly
+      contrast way. "
     img: /img/Painting12.jpeg
-  - title: See all painting and drawing
+  - title: See all paintings and drawings
     url: /paintings
     desc: In this overview you can find all my art. Next to my oilpaintings there
-      are also screenprints and charcoal drawings.
+      are also screenprints, collages  and charcoal drawings.
     img: /img/Painting9.jpeg
 ---
 I'm an Amsterdam based teacher and artist. I work with oilpaint and many other techniques. The main theme's in my paintings are the 1950-1960, Jazz,  Party's and many other themes! 
 
-Interested in one of the paintings or drawing or maybe you would like to know more or you have a special request?
+Interested? You would like to know more? Special request?
 
-Contact me on [aliceheuff@gmail.com](aliceheuff@gmail.com) or follow me [on instagram](https://www.instagram.com/alice_heuff/)!
+Contact me [aliceheuff@gmail.com](aliceheuff@gmail.com) or follow me [on instagram](https://www.instagram.com/alice_heuff/)!
