@@ -25,7 +25,7 @@ quicklinks:
     url: /paintings
     desc: In this overview you can find all my art. Next to my oilpaintings there
       are also screenprints, collages, drawings and charcoal drawings.
-    img: /img/Painting9.jpeg
+    img: /img/sigr2206-1-.jpg
 ---
 I'm an Amsterdam based teacher and artist. I work with oilpaint and many other techniques. The main theme's in my paintings are the 1950-1960, Jazz,  Party's and many other themes! 
 
