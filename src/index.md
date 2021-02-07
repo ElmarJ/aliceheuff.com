@@ -12,8 +12,8 @@ quicklinks:
   - title: It's party time!
     url: /party
     desc: I started painting during the lockdown in spring 2020 and wanted to paint
-      happy and funny gatherings. I got inspired by pictures from the 1950-1960
-      from my personal collection and famoes photographers.
+      happy and funny gatherings. I got inspired by pictures from the 1950s and
+      1960s from my personal collection and famous photographers.
     img: /img/img_3923.jpg
   - title: Jazz Legends
     url: /jazz
