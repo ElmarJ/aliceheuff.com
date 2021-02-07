@@ -2,10 +2,10 @@ items:
   - text: Home
     url: /
   - text: Portraits
-    url: /fifties
+    url: /portraits
   - text: Jazz Legends
     url: /jazz
   - text: Party
     url: /party
   - text: All Painings
-    url: /paintings
+    url: /All
