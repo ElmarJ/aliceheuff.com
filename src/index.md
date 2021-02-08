@@ -25,7 +25,7 @@ quicklinks:
     url: /paintings
     desc: "In this overview you'll find all my art: my oil paintings, but my also
       screenprints, collages, pencil drawings and charcoal drawings."
-    img: /img/Painting3.jpeg
+    img: /img/Painting9.jpeg
   - title: Screenprints and other
     url: /other
     desc: In this overview you'll find my screenprints, collages, pencil drawings
