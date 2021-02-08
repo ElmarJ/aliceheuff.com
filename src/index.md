@@ -25,6 +25,11 @@ quicklinks:
     url: /paintings
     desc: "In this overview you'll find all my art: my oil paintings, but my also
       screenprints, collages, pencil drawings and charcoal drawings."
+    img: /img/Painting3.jpeg
+  - title: Screenprints and other
+    url: /other
+    desc: In this overview you'll find my screenprints, collages, pencil drawings
+      and charcoal drawings
     img: /img/sigr2206-1-.jpg
 ---
 I'm an Amsterdam-based artist. I mainly work with oil paint, but I also use many other techniques. The main themes that inspire my paintings are the scenes from the 1950s and 1960s, such as jazz music and parties. But you'll find paintings inspired many other themes on this site as well! 
