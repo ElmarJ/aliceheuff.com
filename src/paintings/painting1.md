@@ -6,4 +6,5 @@ tag:
   - jazz
 tags:
   - fifties
+  - portrait
 ---
