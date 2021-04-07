@@ -1,6 +1,6 @@
 ---
 title: Boy and orange
-description: Inspired by Vivian Maier, oilpainting 20cm x 30cm
+description: Inspired by Vivian Maier, oilpainting 20cm x 30cm.125 euro
 image: /img/Painting7.jpeg
 feature_image: /img/Painting7.jpeg
 tags:
