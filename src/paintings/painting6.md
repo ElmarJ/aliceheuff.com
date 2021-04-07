@@ -1,6 +1,6 @@
 ---
 title: Ornette
-description: Ornette Coleman, oilpainting 20cm x 20cm
+description: Ornette Coleman, oilpainting 20cm x 20cm. 125 euro
 image: /img/Painting6.jpeg
 feature_image: /img/Painting6.jpeg
 tags:
