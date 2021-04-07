@@ -1,6 +1,6 @@
 ---
 title: "James Brown "
-description: James Brown after concert, Oilpainting 40cm x 40cm
+description: James Brown after concert, Oilpainting 40cm x 40cm. 275 euro
 image: /img/Painting10.jpeg
 feature_image: /img/Painting10.jpeg
 tags:
