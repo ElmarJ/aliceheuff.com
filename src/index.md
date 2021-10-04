@@ -5,12 +5,12 @@ path: home
 background: /img/img_3948.jpg
 quicklinks:
   - title: Portraits inspired by the fifties and sixties
-    url: /portraits
+    url: "/portraits "
     desc: I'm inspired by pictures from the 1950s and 1960s by photographers like Ed
       van der Elsken and Vivian Mayer.
     img: /img/painting1.jpeg
-  - title: It's party time!
-    url: /party
+  - title: Party & Landscape
+    url: /party and landscape
     desc: I started painting during the lockdown in spring 2020 and wanted to paint
       happy and funny gatherings. I got inspired by pictures from the 1950s and
       1960s from my personal collection and famous photographers.
